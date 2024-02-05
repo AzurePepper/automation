@@ -8,6 +8,7 @@ Before running the script, make sure you have the required Python packages insta
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 ## Customization
 The script is a prototype designed to be versatile, allowing you to modify the URL and HTML tags for future use. Search for #KEY_VAR in the code to find customizable variables. Here's an example:
