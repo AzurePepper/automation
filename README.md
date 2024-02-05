@@ -5,7 +5,7 @@ In this repository, I share techniques and code snippets that reflect my journey
 
 ## Contents
 
-- [webscraping](/webscraping/web_scraper.py): This script automates the retrieval of information from a website for a specified number of days. It utilizes web scraping techniques to extract data and prints it to the console.
+- [webscraping](webscraping/web_scrapper.py): This script automates the retrieval of information from a website for a specified number of days. It utilizes web scraping techniques to extract data and prints it to the console.
 
 ## Prerequisites
 
