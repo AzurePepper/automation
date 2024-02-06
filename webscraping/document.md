@@ -11,4 +11,10 @@ pip install requests beautifulsoup4
 ```
 
 ## Customization
-The script is a prototype designed to be versatile, allowing you to modify the URL and HTML tags for future use. Search for #KEY_VAR in the code to find customizable variables. Here's an example:
+The script is a prototype designed to be versatile, allowing you to modify the URL and HTML tags for future use. Search for #KEY_VAR in the code to find customizable variables. 
+Here's an example:
+
+```bash
+python web_scapper.py num_days
+```
+Note that the code snippet accept one argument which is num_days to iterate and to query given days. Feel free to change it tailored to a project.
